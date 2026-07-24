@@ -32,9 +32,6 @@ A modern and responsive Travel Website built using React.js for the frontend and
 
 Clone the repository:
 
-```bash
-git clone https://github.com/your-username/travel-website.git
-```
 
 Navigate to the project directory:
 
